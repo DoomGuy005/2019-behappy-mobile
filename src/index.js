@@ -1,11 +1,10 @@
-<<<<<<< HEAD
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
 
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Open up App.js to start working on your app!</Text>
+      <Text>Meu primeiro app!</Text>
     </View>
   );
 }
@@ -18,9 +17,3 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
 });
-=======
-// comment
-import App from "./src/index";
-
-export default App;
->>>>>>> d9abd324c50e9f424a3072308d1879d8895dbcbc
